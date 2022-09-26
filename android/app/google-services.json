@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "245432367248",
+    "project_id": "fir-epc",
+    "storage_bucket": "fir-epc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245432367248:android:d2ff4083b08a739bd4c015",
+        "android_client_info": {
+          "package_name": "com.epc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245432367248-11nkudnst8obm9odn83eu7oud47h543o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyA-UKh1GF1oBKfXdtMD7_Opp9OPzbUhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245432367248-11nkudnst8obm9odn83eu7oud47h543o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
