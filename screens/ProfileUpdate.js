@@ -418,7 +418,7 @@ const styles = StyleSheet.create({
   },
   panel: {
     padding: 20,
-    backgroundColor: '#FFFFFF',
+    backgroundColor: '#66a5ad',
     paddingTop: 20,
     width: '100%',
   },
@@ -455,7 +455,7 @@ const styles = StyleSheet.create({
   panelButton: {
     padding: 13,
     borderRadius: 10,
-    backgroundColor: '#2e64e5',
+    backgroundColor: '#003b46',
     alignItems: 'center',
     marginVertical: 7,
   },
